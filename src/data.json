@@ -2,20 +2,20 @@
   {
     "id": 1,
     "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "title": "The Floral Dream",
+    "title": "The Floral Dream...",
     "description": "Soft pastel tulle with handcrafted floral embroidery and silk ribbons.",
     "badge": "Bestseller"
   },
   {
     "id": 2,
-    "image": "https://images.unsplash.com/photo-1621453267711-d1c981882bd1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     "title": "Rose Petal Tulle",
     "description": "Elegant cascading layers perfect for birthdays and exclusive special events.",
     "badge": ""
   },
   {
     "id": 3,
-    "image": "https://images.unsplash.com/photo-1607519391053-ebce225fbd13?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     "title": "Ivory Charm",
     "description": "Classic ivory lace with a beautiful satin ribbon finish and pearl accents.",
     "badge": ""
